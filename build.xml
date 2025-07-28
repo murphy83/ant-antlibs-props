@@ -25,8 +25,8 @@ under the License.
   <!-- don't fork junit; regexp classes not available -->
   <property name="junit.fork" value="false" />
 
-  <property name="javac.-source" value="1.4" />
-  <property name="javac.-target" value="1.4" />
+  <property name="javac.-source" value="8" />
+  <property name="javac.-target" value="8" />
 
   <import file="common/build.xml"/>
 </project>
